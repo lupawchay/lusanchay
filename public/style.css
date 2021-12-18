@@ -1,3 +1,14 @@
+
+
+.navbar-collapse{
+    flex-grow: 0 !important;
+}
+.bg-img{
+    background-image: url('../public/ksh_img/curry.jpg');
+    background-size: cover;
+}
+    
+
 .footer{
     background-image: url(img/all-devices.jpg);
     width: 80%;
@@ -5,3 +16,4 @@
     background-position: center;
     background-repeat: no-repeat;
 }
+
