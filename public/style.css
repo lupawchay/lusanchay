@@ -1,3 +1,4 @@
+
 /* HHAwng */
 .hhcontainer{
     height: 750px;
@@ -28,3 +29,23 @@
     padding-top: 30px;
 }
 /* HHAwng */
+
+
+
+.navbar-collapse{
+    flex-grow: 0 !important;
+}
+.bg-img{
+    background-image: url('../public/ksh_img/curry.jpg');
+    background-size: cover;
+}
+    
+
+.footer{
+    background-image: url(img/all-devices.jpg);
+    width: 80%;
+    height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
