@@ -1,0 +1,18 @@
+.part4{
+    background-image: url("part4_img/bg.jpg");
+    width: 100%;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p4-h2p{
+    opacity:0.7;
+}
+.tv{
+    font-size: 35px;
+    opacity:0.7;
+
+}
+.part4-col{
+    padding-top: 92px;
+}
