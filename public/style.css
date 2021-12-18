@@ -1,4 +1,36 @@
 
+/* HHAwng */
+.hhcontainer{
+    height: 750px;
+}
+.first-row{
+    padding-top: 50px;
+}
+.second-row{
+    padding-top: 40px;
+}
+.icons{
+    font-size: 3rem;
+    color: rgb(32, 32, 143);
+    padding: 18px;
+    border: 1.5px solid #999;
+    border-radius: 5rem;
+    margin-top: 60px;
+}
+.para{
+    font-size: 13px;
+
+}
+.hhimage{
+   height: 30rem;
+   padding-top: 20px;
+}
+.padding{
+    padding-top: 30px;
+}
+/* HHAwng */
+
+
 
 .navbar-collapse{
     flex-grow: 0 !important;
