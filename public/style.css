@@ -1,0 +1,9 @@
+
+.navbar-collapse{
+    flex-grow: 0 !important;
+}
+.bg-img{
+    background-image: url('../public/ksh_img/curry.jpg');
+    background-size: cover;
+}
+    
